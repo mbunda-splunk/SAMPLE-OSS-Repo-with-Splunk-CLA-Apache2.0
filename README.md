@@ -1,7 +1,10 @@
-# TEST---Sample-Repo-with-HTML-CLA
+# [Splunk/PROJECT NAME]
+
+## ENTER ANY INSTRUCTIONS HERE
 
 
-# Splunk Copyright Notice
+
+## Splunk Copyright Notice
 
 Copyright 2021 Splunk Inc.
 
