@@ -1,8 +1,6 @@
-# [Splunk/PROJECT NAME]
+# Splunk/PROJECT NAME
 
-## ENTER ANY INSTRUCTIONS HERE
-
-
+## ENTER PROJECT INSTRUCTIONS HERE.
 
 ## Splunk Copyright Notice
 
