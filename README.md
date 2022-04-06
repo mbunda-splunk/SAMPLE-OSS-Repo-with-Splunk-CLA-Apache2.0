@@ -1,7 +1,5 @@
 # Splunk/PROJECT NAME
 
-## THIS FILE HAS DOCUMENTS AND NOTES
-
 # REQURIEMENTS: 
 
 ## Splunk Copyright Notice
