@@ -1,9 +1,3 @@
-Option 2:  When a project has many dependencies.
-
-Note: This file is required by the Apache 2.0 license if your project redistributes any dependencies.  
-
-Apache 2.0 Copyright Attributions 
-
 "Module Name and Version Number","License","Repository"
 "@babel/code-frame@7.12.11","MIT","https://github.com/babel/babel"
 "@babel/code-frame@7.14.5","MIT","https://github.com/babel/babel"
