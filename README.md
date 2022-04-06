@@ -11,6 +11,8 @@ These instructions also include information project-specific requirements such s
 Apache 2.0 requires projects to provide copyright attribution for direct dependencies in a NOTICE file.  Generally, the attributions must include the dependency name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
 for more information.
 
+This sample repo provides two preferred styles for providing attribution.
+
 ### README File
 
 Please include the Splunk copyright notice at the bottom of your project's README file.
