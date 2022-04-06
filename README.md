@@ -14,10 +14,9 @@ These instructions also include information project-specific requirements such s
 
 Please include the Splunk copyright notice at the bottom of your project's README file.
 
-### Code of Conduct File
+### CODE OF CONDUCT File
 
-### Contributing File
+### CONTRIBUTING File
 
 If you anticipate accepting contributions from the open source community, then you must include a link to [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html).  See the [**CONTRIBUTING File**](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING.md) for reference.
  
-#### Test
