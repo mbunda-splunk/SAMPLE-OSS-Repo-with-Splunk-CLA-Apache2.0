@@ -13,6 +13,6 @@ These instructions also include information project-specific requirements such s
 ## (c) Code of Conduct File
 
 ## (d) Contributing File
-If you anticipate accepting contributions from the open source community, then you must include a link to [Splunk's HTML CLA] (https://www.splunk.com/en_us/form/contributions.html).  See the [CONTRIBUTING File] (https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING.md) for reference.
+If you anticipate accepting contributions from the open source community, then you must include a link to [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html).  See the [CONTRIBUTING File](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING.md) for reference.
  
 ### Test
