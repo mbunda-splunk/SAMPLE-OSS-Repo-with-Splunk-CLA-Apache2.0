@@ -1,6 +1,6 @@
 # Splunk/PROJECT NAME
 
-# REQURIEMENTS: 
+# [The following copyright notice must be included in your README]: 
 
 ## Splunk Copyright Notice
 
