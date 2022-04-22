@@ -17,7 +17,7 @@ This sample repo provides two preferred styles for providing attribution.
 
 ### README File (Required)
 
-Please include the Splunk copyright notice at the bottom of your project's README file.
+Please include the Splunk copyright notice at the bottom of your project's README file.  Click [here](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/Sample_README.md) for more information. 
 
 ### Code of Conduct File (Optional)
 
