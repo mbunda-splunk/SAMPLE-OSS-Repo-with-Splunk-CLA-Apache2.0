@@ -6,18 +6,22 @@ This sample repo illustrates the various requirements for projects licensed unde
 These instructions also include information project-specific requirements such sd (a) NOTICE file, 
 (b) Copyright notice in the README file, and (c) Code of Conduct and Contributing files.
 
-### NOTICE File
+### NOTICE File 
+
+[Required for projects that redistribute 3P dependencies]
 
 Apache 2.0 requires projects to provide copyright attribution for direct dependencies in a NOTICE file.  Generally, the attributions must include the dependency name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
 for more information.
 
 This sample repo provides two preferred styles for providing attribution.
 
-### README File
+### README File (Required)
 
 Please include the Splunk copyright notice at the bottom of your project's README file.
 
-### Code of Conduct File
+### Code of Conduct File (Optional)
+
+The Code of Conduct we use is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 ### Contributing File
 
