@@ -36,5 +36,5 @@ If you anticipate accepting contributions from the open-source community you mus
 ### a. Can I include third party logos?
 Generally not.  Unless we received express consent from a third party to use their logo or any other trademarks, we should refrain from doing so in our open source projects.
 
-### b. Can I include screenshots of Splunk IP or products (e.g. UI or logos/trademarks)
+### b. Can I include screenshots of Splunk IP or products (e.g., UI or logos/trademarks)
 Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress. 
