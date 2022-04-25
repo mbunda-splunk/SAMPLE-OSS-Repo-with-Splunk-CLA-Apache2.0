@@ -38,14 +38,6 @@ If you anticipate accepting contributions from the open-source community you mus
 
 The choice is yours!
 
-## Frequently Asked Questions
-
-#### a. Can I use third-party IP – logos and images?
-Generally not. This creates IP issues for us down the road. We want to mitigate any 3P claims against Splunk. Unless we have express permission to commercially exploit a 3P’s logo and trademarks, we cannot use them.    
-
-#### b. Can I add Splunk-owned IP (e.g., UI screenshots or logos/trademarks) or other forms of confidential information to my project?
-Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress.  When in         doubt, check with your Splunk Legal partner. 
-
 ## Splunk Copyright Notice
 
 Copyright 2022 Splunk Inc.
@@ -56,3 +48,10 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
+## Frequently Asked Questions
+
+#### a. Can I use third-party IP – logos and images?
+Generally not. This creates IP issues for us down the road. We want to mitigate any 3P claims against Splunk. Unless we have express permission to commercially exploit a 3P’s logo and trademarks, we cannot use them.    
+
+#### b. Can I add Splunk-owned IP (e.g., UI screenshots or logos/trademarks) or other forms of confidential information to my project?
+Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress.  When in         doubt, check with your Splunk Legal partner. 
