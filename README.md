@@ -2,9 +2,9 @@
 
 # [Instructions for how to use this sample repo]
 
-### Note: These instructions apply only to projects licensed under Apache 2.0
+### Note: These instructions apply only to projects licensed under Apache 2.0.
 
-This sample repo prpovides information on the various license requirements for projects licensed under Apache 2.0.  
+This sample repo prpovides guidelines on how to comply the various license requirements for projects licensed under Apache 2.0.  
 These instructions also include information project-specific requirements such as (a) the NOTICE file, 
 (b) Copyright notice in the README file, (c) Code of Conduct file and a (d) Contributing file.
 
@@ -23,7 +23,7 @@ Please include the Splunk copyright notice at the bottom of your project's READM
 
 The Code of Conduct we use is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.  We suggest that you include this text in your project to ensure that our engagements with the community remain safe and professional.
 
-### d. Contributing File (Required to accept 3P contributions)
+### d. Contributing File (Required in order to accept 3P contributions)
 
 #### Two Options: (a) Splunk HTML CLA or (b) Splunk CLA Assistant
 
