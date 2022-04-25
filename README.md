@@ -4,7 +4,7 @@
 
 ### Note: These instructions apply only to projects licensed under Apache 2.0.
 
-This sample repo prpovides guidelines on how to comply the various license requirements for projects licensed under Apache 2.0.  
+This sample repo provides guidelines on how to comply the various license requirements for projects licensed under Apache 2.0.  
 These instructions also include information project-specific requirements such as (a) the NOTICE file, 
 (b) Copyright notice in the README file, (c) Code of Conduct file and a (d) Contributing file.
 
@@ -15,7 +15,7 @@ Also included at the bottom are a few FAQs on what you may or may not include in
 Apache 2.0 requires projects to provide copyright attribution for direct dependencies in a NOTICE file.  Generally, the attributions must include the dependency name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
 for more information.
 
-This sample repo provides two preferred styles for providing attribution:  (a) [text format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-CLA-Assistant/blob/main/NOTICE_Option1) or (b) [table/csv format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-CLA-Assistant/blob/main/NOTICE_Option2.csv) – the choice is yours.
+This sample repo provides two preferred styles for providing attribution:  (a) [text format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) or (b) [table/csv format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv) – the choice is yours.
 
 ### b. README File (Required)
 
