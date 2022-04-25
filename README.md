@@ -1,31 +1,33 @@
 # SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA
 
-# [Instructions for how to use this sample repo]
+# [Instructions for how to use this sample open source repo guidelines]
 
-### Note: These instructions apply only to projects licensed under Apache 2.0.
+### Note: These instructions apply only to open source projects licensed under Apache 2.0.
 
-This sample repo provides guidelines on how to comply the various license requirements for projects licensed under Apache 2.0.  
-These instructions also include information project-specific requirements such as (a) the NOTICE file, 
-(b) Copyright notice in the README file, (c) Code of Conduct file and a (d) Contributing file.
+This sample open source repo provides guidelines on how to comply with various license requirements under Apache 2.0.  
+The guidelines explain when to add (a) a NOTICE file, 
+(b) Splunk's copyright notice in a README file, (c) a CODE OF CONDUCT file, and (d) a CONTRIBUTING file.
 
-Also included at the bottom are a few FAQs on what you may or may not include in your Splunk-owned repo.
+Also included at the bottom of this file are a few FAQs on how to best safeguard Splunk's IP.
 
 ### a. NOTICE File (Required when a project redistributes 3P dependencies)
 
-Apache 2.0 requires projects to provide copyright attribution for direct dependencies in a NOTICE file.  Generally, the attributions must include the dependency name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
+Apache 2.0 requires projects to provide copyright attribution for redistributed dependencies in a NOTICE file.  Generally, the attributions must include the project's name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
 for more information.
 
-This sample repo provides two preferred styles for providing attribution:  (a) [text format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) or (b) [table/csv format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv) – the choice is yours.
+#### Two Options:  (a) [Text Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) or [Table/CSV Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv)
+
+This sample repo provides two preferred styles for providing attribution:  (a) [Text Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) or (b) [Table/CSV Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv) – the choice is yours.
 
 ### b. README File (Required)
 
 Please include the Splunk copyright notice at the bottom of your project's README file.  Click [here](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/Sample_README.md) for an illustration. 
 
-### c. Code of Conduct File (Optional)
+### c. CODE OF CONDUCT File (Optional)
 
 The Code of Conduct we use is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.  We suggest that you include this text in your project to ensure that our engagements with the community remain safe and professional.
 
-### d. Contributing File (Required in order to accept 3P contributions)
+### d. CONTRIBUTING File (Required in order to accept 3P contributions)
 
 #### Two Options: (a) Splunk HTML CLA or (b) Splunk CLA Assistant – the choice is yours!
 
