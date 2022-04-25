@@ -35,8 +35,8 @@ If you anticipate accepting contributions from the open-source community you mus
 
 # Frequently Asked Questions
 
-### a. Can I include third party logos?
-Generally not.  Unless we received express consent from a third party to use their logo or any other trademarks, we should refrain from doing so in our open source projects.
+### a. Can I use third-party IP – logos, names, images??
+Generally not. This creates IP issues for us down the road. We want to mitigate any 3P claims against Splunk. Unless we have express permission to commercially exploit a 3P’s IP, we cannot use it.  
 
-### b. Can I include screenshots of Splunk IP or products (e.g., UI or logos/trademarks)
-Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress. 
+### b. Can I add Splunk trademarks/patented IP (e.g., UI or logos/trademarks) and confidential information to my project 
+Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress.  When in doubt, check with your Splunk Legal partner. 
