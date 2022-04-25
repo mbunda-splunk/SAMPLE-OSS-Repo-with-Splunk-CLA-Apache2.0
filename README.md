@@ -8,6 +8,8 @@ This sample repo prpovides guidelines on how to comply the various license requi
 These instructions also include information project-specific requirements such as (a) the NOTICE file, 
 (b) Copyright notice in the README file, (c) Code of Conduct file and a (d) Contributing file.
 
+Also included at the bottom are a few FAQs on what you may or may not include in your Splunk-owned repo.
+
 ### a. NOTICE File (Required when a project redistributes 3P dependencies)
 
 Apache 2.0 requires projects to provide copyright attribution for direct dependencies in a NOTICE file.  Generally, the attributions must include the dependency name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
@@ -28,3 +30,11 @@ The Code of Conduct we use is adapted from the Contributor Covenant, version 2.0
 #### Two Options: (a) Splunk HTML CLA or (b) Splunk CLA Assistant
 
 If you anticipate accepting contributions from the open-source community you must include either the [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html) or the [Splunk CLA Agreement Tracker](https://github.com/splunk/cla-agreement) in your repo.  See the [CONTRIBUTING File](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-CLA-Assistant/edit/main/CONTRIBUTING_Sample1.md) 
+
+# Frequently Asked Questions
+
+### a. Can I include third party logos?
+Generally not.  Unless we received express consent from a third party to use their logo or any other trademarks, we should refrain from doing so in our open source projects.
+
+### b. Can I include screenshots of Splunk IP or products (e.g. UI or logos/trademarks)
+Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress. 
