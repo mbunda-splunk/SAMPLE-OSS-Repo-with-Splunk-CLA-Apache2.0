@@ -7,19 +7,19 @@ These guidelines illustrate how to comply with the various Apache 2.0 license re
 
 We include answers to a few FAQs at the bottom of this page.
 
-#### a. NOTICE File (Required when a project redistributes any 3P code)
+### a. NOTICE File (Required when a project redistributes any 3P code)
 
 Apache 2.0 requires projects to provide copyright attribution for redistributed dependencies in a NOTICE file.  Generally, the attributions must include the project's name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
 for more information.
 
-##### Two Options:  
+#### Two Options:  
 
 * [Text Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) 
-*  [Table/CSV Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv)
+* [Table/CSV Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv)
 
-This sample repo provides two preferred styles for providing attribution:  (a) [Text Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) or (b) [Table/CSV Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv) – the choice is yours.
+The choice is yours!
 
-#### b. README File (Required)
+### b. README File (Required)
 
 Please include the Splunk copyright notice at the bottom of your project's README file – this is to ensure it is prominently displayed.  Click [here](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/Sample_README.md) for an example. 
 
@@ -27,9 +27,9 @@ Please include the Splunk copyright notice at the bottom of your project's READM
 
 The Code of Conduct we use is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.  We suggest that you include this text in your project to ensure that our engagements with the community remain safe, productive and professional.
 
-####d. CONTRIBUTING File (Required in order to accept 3P contributions)
+### d. CONTRIBUTING File (Required in order to accept 3P contributions)
 
-##### Two Options: 
+#### Two Options: 
 
 * [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html)
 * [Splunk CLA Agreement Tracker](https://github.com/splunk/cla-agreement)
