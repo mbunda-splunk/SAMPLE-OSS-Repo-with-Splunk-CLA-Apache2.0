@@ -27,7 +27,7 @@ The Code of Conduct we use is adapted from the Contributor Covenant, version 2.0
 
 ### d. Contributing File (Required in order to accept 3P contributions)
 
-#### Two Options: (a) Splunk HTML CLA or (b) Splunk CLA Assistant
+#### Two Options: (a) Splunk HTML CLA or (b) Splunk CLA Assistant – the choice is yours!
 
 If you anticipate accepting contributions from the open-source community you must include either the [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html) or the [Splunk CLA Agreement Tracker](https://github.com/splunk/cla-agreement) in your repo.  For the HTML CLA, see the [CONTRIBUTING File](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING_Sample1.md) 
 
