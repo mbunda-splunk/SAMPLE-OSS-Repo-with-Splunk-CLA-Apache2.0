@@ -1,4 +1,4 @@
-# SAMPLE-OSS-Repo-Apache2.0-with-CLA-Assistant
+# SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA
 
 # [Instructions for how to use this sample repo]
 
