@@ -41,7 +41,7 @@ These agreements serve two main functions – first, to ensure that a contributo
 * [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html)
 * [Splunk CLA Agreement Tracker](https://github.com/splunk/cla-agreement)
 
-The choice is yours!
+The choice yours but it is your responsibility to ensure that the contributors have signed the Splunk CLA before you accept their contributions.
 
 ## Splunk Copyright Notice
 
