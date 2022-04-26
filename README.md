@@ -1,6 +1,6 @@
-# SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA
+# SAMPLE OSS Repo with HTML CLA (Apache2.0)
 
-## [Instructions for how to use the following guidelines]
+## [Instructions on how to make your Splunk OSS project license-compliant]
 
 These guidelines illustrate how to comply with the various Apache 2.0 license requirements. They explain when to add (a) a NOTICE file, 
 (b) Splunk's copyright notice in a README file, (c) a CODE OF CONDUCT file, and (d) a CONTRIBUTING file.
