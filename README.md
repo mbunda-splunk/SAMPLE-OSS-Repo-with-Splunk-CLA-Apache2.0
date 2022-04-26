@@ -1,4 +1,4 @@
-# SAMPLE OSS Repo with HTML CLA (Apache2.0)
+# SAMPLE OSS Repo with HTML CLA (Apache 2.0)
 
 ## [Instructions on how to make your Splunk OSS project license-compliant]
 
