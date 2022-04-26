@@ -60,7 +60,9 @@ The choice yours but it is your responsibility to ensure that the contributors h
 ## Frequently Asked Questions
 
 ### Can I use a third-party's proprietary IP (e.g., trademarks and product screenshots)?
-Generally not. This creates IP issues for us down the road. We want to mitigate any 3P claims against Splunk. Unless we have express permission to commercially exploit a 3P’s logo and trademarks, we cannot use them.    
+    Generally not. This creates IP issues for us down the road. We want to mitigate any 3P claims against Splunk. 
+    Unless we have express permission to commercially exploit a 3P’s logo and trademarks, we cannot use them.    
 
 ### Can I add Splunk-owned IP (e.g., UI screenshots or logos/trademarks) or other forms of confidential information to my project?
-Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress.  When in         doubt, check with your Splunk Legal partner. 
+    Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of 
+    our tradedress.  When in doubt, check with your Splunk Legal partner. 
