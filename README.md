@@ -9,7 +9,7 @@ In addition to a LICENSE file that should contain the full text of your project'
 *  NOTICE file
 *  README file
 *  CODE OF CONDUCT file
-*  CONTRIBUTING file.
+*  CONTRIBUTING file
 
 ### NOTICE File (Required when a project redistributes any 3P code)
 
