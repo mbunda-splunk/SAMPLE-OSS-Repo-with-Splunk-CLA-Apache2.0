@@ -2,12 +2,16 @@
 
 ## [Instructions on how to make your Splunk OSS project license-compliant]
 
-These guidelines provide information on how to comply with the various Apache 2.0 license requirements. They explain when to add (a) a NOTICE file, 
-(b) Splunk's copyright notice in a README file, (c) a CODE OF CONDUCT file, and (d) a CONTRIBUTING file.
+These guidelines provide information on how to comply with the various Apache 2.0 license requirements. It also answers a few FAQs at the bottom of this page.
 
-It also answers a few FAQs at the bottom of this page.
+In addition to a LICENSE file that should contain the full text of your project's chosen license, the other four files you need to know about are the: 
 
-### a. NOTICE File (Required when a project redistributes any 3P code)
+*  NOTICE file
+*  README file
+*  CODE OF CONDUCT file
+*  CONTRIBUTING file.
+
+### NOTICE File (Required when a project redistributes any 3P code)
 
 Apache 2.0 requires projects to provide copyright attribution for redistributed dependencies in a NOTICE file.  Generally, the attribution must include the project's name, version number, license type, and project URL (if available). Click [here](https://infra.apache.org/licensing-howto.html)
 for more information.
@@ -17,17 +21,16 @@ for more information.
 * [Text Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option1) 
 * [Table/CSV Format](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/NOTICE_Option2.csv)
 
-The choice is yours!
 
-### b. README File (Required)
+### README File (Required)
 
 Please include the Splunk copyright notice at the bottom of your project's README file – this is to ensure it is prominently displayed.  Click [here](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/Sample_README.md) to see how this is done. 
 
-#### c. CODE OF CONDUCT File (Optional)
+### CODE OF CONDUCT File (Optional)
 
 The Code of Conduct Splunk uses is adapted from the Contributor Covenant, version 2.0, available [here](ttps://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  We suggest that you include this text in your project to ensure that our engagements with the community remain safe, productive and professional.
 
-### d. CONTRIBUTING File (Required in order to accept 3P contributions)
+###  CONTRIBUTING File (Required in order to accept 3P contributions)
 
 If you anticipate accepting contributions from the open-source community you must include one of these options, see the [CONTRIBUTING File](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING_Sample1.md). 
 
@@ -52,8 +55,8 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Frequently Asked Questions
 
-#### a. Can I use third-party IP – logos and images?
+### Can I use third-party IP – logos and images?
 Generally not. This creates IP issues for us down the road. We want to mitigate any 3P claims against Splunk. Unless we have express permission to commercially exploit a 3P’s logo and trademarks, we cannot use them.    
 
-#### b. Can I add Splunk-owned IP (e.g., UI screenshots or logos/trademarks) or other forms of confidential information to my project?
+### Can I add Splunk-owned IP (e.g., UI screenshots or logos/trademarks) or other forms of confidential information to my project?
 Generally not.  Including screenshots of our products affects our ability to file design patents and dilutes the value of our tradedress.  When in         doubt, check with your Splunk Legal partner. 
