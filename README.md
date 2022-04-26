@@ -46,9 +46,7 @@ The Code of Conduct Splunk uses is adapted from the Contributor Covenant, versio
 
 ###  CONTRIBUTING File (Required in order to accept 3P contributions)
 
-If you anticipate accepting contributions from the open-source community you must include one of these options, see the [CONTRIBUTING File](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING_Sample1.md). 
-
-These agreements serve two main functions – first, to ensure that a contributor is legally authorized to make their contribution, and second, that they grant Splunk a license to use and redistribute the underlying IP (copyright or relevant patents).
+If you anticipate accepting contributions from the open-source community you must include one of these options, see the [CONTRIBUTING File](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CONTRIBUTING_Sample1.md). These agreements serve two main functions – first, to ensure that a contributor is legally authorized to make their contribution, and second, that they grant Splunk a license to use and redistribute the underlying IP (copyright or relevant patents).
 
 #### Two Options: 
 As an alternative to the HTML CLA, you may also include the Splunk CLA Agreement Tracker. The choice yours but it is your responsibility to ensure that 
