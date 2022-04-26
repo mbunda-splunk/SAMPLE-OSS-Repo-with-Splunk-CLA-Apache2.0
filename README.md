@@ -24,7 +24,15 @@ for more information.
 
 ### README File (Required)
 
-Please include the Splunk copyright notice at the bottom of your project's README file – this is to ensure it is prominently displayed.  Click [here](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/Sample_README.md) to see how this is done. 
+In addition to the documentation for your project, please include the following Splunk copyright notice  to the bottom of your project's README file – this is to ensure it is prominently displayed.  Please update the year as appropriate.
+
+Copyright 2022 Splunk Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ### CODE OF CONDUCT File (Optional)
 
@@ -42,16 +50,6 @@ These agreements serve two main functions – first, to ensure that a contributo
 * [Splunk CLA Agreement Tracker](https://github.com/splunk/cla-agreement)
 
 The choice yours but it is your responsibility to ensure that the contributors have signed the Splunk CLA before you accept their contributions.
-
-## Splunk Copyright Notice
-
-Copyright 2022 Splunk Inc.
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ## Frequently Asked Questions
 
