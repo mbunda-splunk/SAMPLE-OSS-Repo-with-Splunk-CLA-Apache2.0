@@ -1,4 +1,4 @@
-# SAMPLE OSS Repo with HTML CLA (Apache 2.0)
+# SAMPLE OSS Repo with HTML CLA (Apache 2.0). MB: RENAME
 
 ## [Instructions on how to make your Splunk OSS project license-compliant]
 
@@ -42,7 +42,7 @@ See the License for the specific language governing permissions and limitations 
 
 ### CODE OF CONDUCT File (Optional)
 
-The Code of Conduct Splunk uses is adapted from the Contributor Covenant, version 2.0, available [here](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  We suggest that you include this text in your project to ensure that our engagements with the community remain safe, productive and professional.
+The Code of Conduct Splunk uses is adapted from the Contributor Covenant, version 2.0, available [here](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html). MB: CHANGE TO THE REPO FILE. We suggest that you include this text in your project to ensure that our engagements with the community remain safe, productive and professional.
 
 ###  CONTRIBUTING File (Required in order to accept 3P contributions)
 
