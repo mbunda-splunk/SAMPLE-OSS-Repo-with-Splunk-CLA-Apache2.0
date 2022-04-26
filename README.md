@@ -27,19 +27,19 @@ for more information.
 In addition to the documentation for your project, please include the following Splunk copyright notice  to the bottom of your project's README file – this is to ensure it is prominently displayed.  Please update the year as appropriate.
 
 _____________
-Copyright 2022 Splunk Inc.
+    Copyright 2022 Splunk Inc.
 
-Licensed under the Apache License, Version 2.0 (the "License"); 
-you may not use this file except in compliance with the License. 
-You may obtain a copy of the License at
+    Licensed under the Apache License, Version 2.0 (the "License"); 
+    you may not use this file except in compliance with the License. 
+    You may obtain a copy of the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, 
-software distributed under the License is distributed on an "AS IS" BASIS, 
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and limitations under the License.
-
+    Unless required by applicable law or agreed to in writing, 
+    software distributed under the License is distributed on an "AS IS" BASIS, 
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and limitations under the License.
+_____________
 ### CODE OF CONDUCT File (Optional)
 
 The Code of Conduct Splunk uses is adapted from the Contributor Covenant, version 2.0, which is available [here](https://github.com/mbunda-splunk/SAMPLE-OSS-Repo-Apache2.0-with-HTML-CLA/blob/main/CODE_OF_CONDUCT.md). We suggest that you include this text in your project to ensure that our engagements with the community remain safe, productive and professional.
