@@ -51,11 +51,11 @@ If you anticipate accepting contributions from the open-source community you mus
 These agreements serve two main functions – first, to ensure that a contributor is legally authorized to make their contribution, and second, that they grant Splunk a license to use and redistribute the underlying IP (copyright or relevant patents).
 
 #### Two Options: 
+As an alternative to the HTML CLA, you may also include the Splunk CLA Agreement Tracker. The choice yours but it is your responsibility to ensure that 
+the contributors have signed the Splunk CLA before you accept their contributions.
 
 * [Splunk's HTML CLA](https://www.splunk.com/en_us/form/contributions.html)
 * [Splunk CLA Agreement Tracker](https://github.com/splunk/cla-agreement)
-
-The choice yours but it is your responsibility to ensure that the contributors have signed the Splunk CLA before you accept their contributions.
 
 ## Frequently Asked Questions
 
